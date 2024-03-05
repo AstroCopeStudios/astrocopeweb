@@ -1,0 +1,12 @@
+.black-box {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px; /* Adjust the width as needed */
+    text-align: center;
+    margin: auto; /* Center the box horizontally */
+    margin-top: 20vh; /* Adjust the margin from the top as needed */
+    margin-top: 25px; /* i'll use a little spacing for now, may change it later */
+}
+
